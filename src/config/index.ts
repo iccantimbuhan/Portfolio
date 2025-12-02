@@ -25,10 +25,10 @@ export const SITE_CONFIG: SiteConfig = {
 
 export const SITE_CONTENT: SiteContent = {
   hero: {
-    name: "Alejandro Múnez",
-    specialty: "Mobile & Web Developer",
+    name: "Richwell Tarub",
+    specialty: "Professional Scammer",
     summary:
-      "Developer based in San Francisco, USA. I specialize in UI design, web and mobile application development and maintenance.",
+      "Scammer based in Valladolid, Spain. PROPERTY MANAGEMENT OPERATIONS & SYSTEM AUTOMATION  With 10+ years of experience managing and automating property operations across the US and UK, I’ve supported over 900+ rental units by building scalable systems that reduce manual work and improve visibility across teams.",
     email: "example@email.com",
   },
   experience: [
